@@ -1,5 +1,5 @@
 ---
-name: domain-writing
+name: tutorial-writing
 description: 针对某一领域或话题进行结构化写作（教程、博客、讲解文等）。当用户希望写技术/领域文章、知识点讲解或任何需要「先想清楚再写」的成文时使用。引导作者明确写作目标与受众，基于一手资料写作，输出简洁清晰的 Markdown。
 ---
 

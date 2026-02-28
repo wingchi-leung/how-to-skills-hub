@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This is a skills collection for **tutorial and domain writing**. I'm building practical skills to help with day-to-day work, and the repo will keep growing.
+This is a skills collection. I'm building practical skills to help with day-to-day work, and the repo will keep growing.
 
 ### ✨ Included Skills
 
@@ -68,13 +68,11 @@ Write a tutorial on XX for audience …
 
 Or paste the full content of the corresponding `.md` file into context, then state your topic and audience.
 
----
 
 ### 🤝 Contributing
 
 Issues and Pull Requests are welcome. If you have a new writing skill or improvements, contributions are welcome.
 
----
 
 ### 📧 Contact
 
