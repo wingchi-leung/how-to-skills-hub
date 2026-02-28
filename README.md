@@ -39,8 +39,8 @@
 
 **文件**：
 
-* 中文版：[tutorial-writing-skill-zh.md](./tutorial-writing-skill-zh.md)
-* English: [tutorial-writing-skill-en.md](./tutorial-writing-skill-en.md)
+* 中文版：[tutorial-writing-zh/SKILL.md](./tutorial-writing-zh/SKILL.md)
+* English: [tutorial-writing-en/SKILL.md](./tutorial-writing-en/SKILL.md)
 
 ---
 
@@ -55,7 +55,7 @@
 git clone https://github.com/wingchi-leung/how-to-skills-hub.git
 ```
 
-也可只下载或复制 [tutorial-writing-skill-zh.md](./tutorial-writing-skill-zh.md) / [tutorial-writing-skill-en.md](./tutorial-writing-skill-en.md) 到你的 Skills 目录。
+也可只下载或复制 [tutorial-writing-zh/SKILL.md](./tutorial-writing-zh/SKILL.md) / [tutorial-writing-en/SKILL.md](./tutorial-writing-en/SKILL.md) 到你的 Skills 目录。
 
 #### 使用 Skills
 

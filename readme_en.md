@@ -39,8 +39,8 @@ I want to write a tech article, help me clarify my thoughts first
 
 **Files**:
 
-* 中文: [tutorial-writing-skill-zh.md](./tutorial-writing-skill-zh.md)
-* English: [tutorial-writing-skill-en.md](./tutorial-writing-skill-en.md)
+* 中文: [tutorial-writing-zh/SKILL.md](./tutorial-writing-zh/SKILL.md)
+* English: [tutorial-writing-en/SKILL.md](./tutorial-writing-en/SKILL.md)
 
 ---
 
@@ -55,7 +55,7 @@ I want to write a tech article, help me clarify my thoughts first
 git clone https://github.com/wingchi-leung/how-to-skills-hub.git
 ```
 
-You can also download or copy only [tutorial-writing-skill-zh.md](./tutorial-writing-skill-zh.md) or [tutorial-writing-skill-en.md](./tutorial-writing-skill-en.md) into your skills directory.
+You can also download or copy only [tutorial-writing-zh/SKILL.md](./tutorial-writing-zh/SKILL.md) or [tutorial-writing-en/SKILL.md](./tutorial-writing-en/SKILL.md) into your skills directory.
 
 #### Using the Skills
 
